@@ -1,0 +1,9 @@
+# Sentiment-classification-using-RNN-and-LSTM
+1. Sentiment classifaication <br>
+Twitter is an American microblogging and social networking service on which users post and interact with messages known as “tweets”. Tweets were originally restricted to 140 characters, but the limit was doubled to 280 for non-CJK languages in November 2017. [2] Recently, people have been discussing about the Covid-19 pandemic (an ongoing global pandemic of coronavirus disease 2019, which killed billions of people around the world). The problem is to classify tweets into sentiment such as “extremely negative”, “negative”, “neutral”, “positive”, and “extremely positive”. <br>
+•	Input: Representation of the content of a tweet (e.g., a vector of key word weights). <br>
+•	Output: An assigned label as one of the five sentiments: extremely negative, negative, neutral, positive, extremely positive.
+3. Reccurent Neural Networks <br>
+A recurrent neural network (RNN) is a class of artificial neural networks where connections between nodes form a directed or undirected graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior. Derived from feedforward neural networks, RNNs can use their internal state (memory) to process variable-length sequences of inputs. This makes them applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition. Recurrent neural networks are theoretically Turing complete and can run arbitrary programs to process arbitrary sequences of inputs.
+5. Long Short-term Memory <br>
+Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can process not only single data points (such as images), but also entire sequences of data (such as speech or video). 
